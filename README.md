@@ -7,6 +7,8 @@ Here you can find some of the code I wrote:
 - Java:
   - [Methods](https://github.com/AndreiaMatias/DIO_metodos_java)
   - [Lists](https://github.com/AndreiaMatias/DIO_exercicio_inquerito)
+  - [Lists2](https://github.com/AndreiaMatias/DIO_listas_java)
+  - [Lists3](https://github.com/AndreiaMatias/DIO_ordenacaoListas_java)
   - [Collections](https://github.com/AndreiaMatias/DIO_Java_Collections)
   - [MAP](https://github.com/AndreiaMatias/DIO_ExerciciosMap)
   
