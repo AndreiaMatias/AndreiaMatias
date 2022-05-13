@@ -4,7 +4,7 @@
 
 Here you can find some of the code I wrote:
 
-- Java:
+- Java (Digital Innovation One Bootcamp):
   - [Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
   - [Methods](https://github.com/AndreiaMatias/DIO_metodos_java)
   - [Lists](https://github.com/AndreiaMatias/DIO_exercicio_inquerito)
