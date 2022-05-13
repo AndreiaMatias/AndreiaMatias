@@ -5,7 +5,12 @@
 Here you can find some of the code I wrote:
 
 - Java:
-  -[Métodos](https://github.com/AndreiaMatias/DIO_metodos_java)
+  - [Methods](https://github.com/AndreiaMatias/DIO_metodos_java)
+  - [Lists](https://github.com/AndreiaMatias/DIO_exercicio_inquerito)
+  - [Collections](https://github.com/AndreiaMatias/DIO_Java_Collections)
+  - [MAP](https://github.com/AndreiaMatias/DIO_ExerciciosMap)
+  
+  
   
 
 
