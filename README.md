@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaMatias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-Here you can find some of the code I wrote:
+  <p>Here you can find some of the code I wrote:</p>
 
 - Java - Digital Innovation One Bootcamp:
   - [Arrays and Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
