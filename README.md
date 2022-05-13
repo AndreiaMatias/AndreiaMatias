@@ -1,4 +1,4 @@
-# Andréia Matias' Repositories
+#Andréia Matias' Repositories
 
 - 👋 Hi, I’m @AndreiaMatias
 - 👀 I’m interested in Java, Python and Data Science
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaMatias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <p>Here you can find some of the code I wrote:</p>
+<p>Here you can find some of the code I wrote:</p>
 
 - Java - Digital Innovation One Bootcamp:
   - [Arrays and Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
