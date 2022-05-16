@@ -20,7 +20,7 @@
   - [Lists3](https://github.com/AndreiaMatias/DIO_ordenacaoListas_java)
   - [Collections](https://github.com/AndreiaMatias/DIO_Java_Collections)
   - [MAP](https://github.com/AndreiaMatias/DIO_ExerciciosMap)
-  - [Object Oriented Programming] (https://github.com/AndreiaMatias/DIO_OrientacaoObjetos.git)
+  - [Object Oriented Programming](https://github.com/AndreiaMatias/DIO_OrientacaoObjetos.git)
   
 - Python:
   
