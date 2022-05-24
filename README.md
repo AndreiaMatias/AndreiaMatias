@@ -25,9 +25,9 @@
 - Python:
   
 - HTML/CSS:
-  [Curriculum](https://github.com/AndreiaMatias/EstudoCaso)
-  [Shoe Store](https://github.com/AndreiaMatias/shoeStore)
-  [lovt](https://github.com/AndreiaMatias/lovt)
+  - [Curriculum](https://github.com/AndreiaMatias/EstudoCaso)
+  - [Shoe Store](https://github.com/AndreiaMatias/shoeStore)
+  - [lovt](https://github.com/AndreiaMatias/lovt)
   
   
   
