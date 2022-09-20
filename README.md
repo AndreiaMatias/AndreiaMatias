@@ -12,6 +12,10 @@
 
 <p>Here you can find some of the code I wrote:</p>
 
+- Start Capgemini:
+  - [Algoritmos](https://github.com/AndreiaMatias/algoritmos)
+  - [Java - exercícios](https://github.com/AndreiaMatias/Java)
+
 - Java - Digital Innovation One Bootcamp:
   - [Arrays and Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
   - [Methods](https://github.com/AndreiaMatias/DIO_metodos_java)
