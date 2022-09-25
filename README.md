@@ -19,6 +19,8 @@
  - DIO Database Experience:
    - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
    - [Projeto lógico e-commerce](https://github.com/AndreiaMatias/DesafioProjetoLogico)
+   - [Projeto modelagem oficina](https://github.com/AndreiaMatias/DesafioModelagemOficina)
+   - [Projeto lógico oficina](https://github.com/AndreiaMatias/DesafioOficinaLogico)
 
 - Java - Digital Innovation One Bootcamp:
   - [Arrays and Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
