@@ -15,6 +15,7 @@
 - Start Capgemini:
   - [Algoritmos](https://github.com/AndreiaMatias/algoritmos)
   - [Java - exercícios](https://github.com/AndreiaMatias/Java)
+  - [Todo App](https://github.com/AndreiaMatias/TodoApp)
   
  - DIO Database Experience:
    - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
