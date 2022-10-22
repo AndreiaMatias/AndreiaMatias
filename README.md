@@ -17,7 +17,7 @@
   - [Java - exercícios](https://github.com/AndreiaMatias/Java)
   - [Todo App](https://github.com/AndreiaMatias/TodoApp)
   - [Repositório projeto Angular](https://github.com/AndreiaMatias/proway-computers)
-  - [Página do projeto Angular] (https://andreiamatias.github.io/proway-computers/produtos)
+  - [Página do projeto Angular](https://andreiamatias.github.io/proway-computers/produtos)
   
  - DIO Database Experience:
    - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
