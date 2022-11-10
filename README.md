@@ -10,11 +10,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiaMatias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<p>Here you can find some of the code I wrote:</p>
+<p>Here you can find some of the projects I did:</p>
 
 - Data Analysis/Data Science:
-  -[TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
-  -[IDH Preditiva - Excel](https://github.com/AndreiaMatias/projetos-Excel);
+  - [TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
+  - [IDH Preditiva - Excel](https://github.com/AndreiaMatias/projetos-Excel);
 
 - Start Capgemini:
   - [Algoritmos](https://github.com/AndreiaMatias/algoritmos)
