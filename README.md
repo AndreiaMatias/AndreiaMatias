@@ -12,6 +12,10 @@
 
 <p>Here you can find some of the code I wrote:</p>
 
+- Data Analysis/Data Science:
+  -[TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
+  -[IDH Preditiva - Excel](https://github.com/AndreiaMatias/projetos-Excel);
+
 - Start Capgemini:
   - [Algoritmos](https://github.com/AndreiaMatias/algoritmos)
   - [Java - exercícios](https://github.com/AndreiaMatias/Java)
