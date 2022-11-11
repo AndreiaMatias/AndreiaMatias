@@ -14,7 +14,7 @@
 
 - Data Analysis/Data Science:
   - [TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
-  - [IDH Preditiva - Excel](https://github.com/AndreiaMatias/projetos-Excel);
+  - [Preditiva - Excel projects](https://github.com/AndreiaMatias/projetos-Excel);
   
 - DIO Database Experience:
    - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
