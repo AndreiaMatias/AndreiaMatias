@@ -15,6 +15,12 @@
 - Data Analysis/Data Science:
   - [TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
   - [IDH Preditiva - Excel](https://github.com/AndreiaMatias/projetos-Excel);
+  
+- DIO Database Experience:
+   - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
+   - [Projeto lógico e-commerce](https://github.com/AndreiaMatias/DesafioProjetoLogico)
+   - [Projeto modelagem oficina](https://github.com/AndreiaMatias/DesafioModelagemOficina)
+   - [Projeto lógico oficina](https://github.com/AndreiaMatias/DesafioOficinaLogico)
 
 - Start Capgemini:
   - [Algoritmos](https://github.com/AndreiaMatias/algoritmos)
@@ -22,12 +28,6 @@
   - [Todo App](https://github.com/AndreiaMatias/TodoApp)
   - [Repositório projeto Angular](https://github.com/AndreiaMatias/proway-computers)
   - [Página do projeto Angular](https://andreiamatias.github.io/proway-computers/produtos)
-  
- - DIO Database Experience:
-   - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
-   - [Projeto lógico e-commerce](https://github.com/AndreiaMatias/DesafioProjetoLogico)
-   - [Projeto modelagem oficina](https://github.com/AndreiaMatias/DesafioModelagemOficina)
-   - [Projeto lógico oficina](https://github.com/AndreiaMatias/DesafioOficinaLogico)
 
 - Java - Digital Innovation One Bootcamp:
   - [Arrays and Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
