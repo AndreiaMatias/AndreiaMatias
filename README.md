@@ -16,6 +16,7 @@
   - [TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
   - [Preditiva - Excel projects](https://github.com/AndreiaMatias/projetos-Excel);
   - [data analyst with SQL final project - DATACAMP](https://github.com/AndreiaMatias/SQL/blob/master/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb);
+  - [data analyst associate certification - files] (https://github.com/AndreiaMatias/data_analyst_associated_certification);
   
 - DIO Database Experience:
    - [Projeto modelagem e-commerce](https://github.com/AndreiaMatias/DesafioModelagemBD)
