@@ -8,7 +8,7 @@
 <p>Here you can find some of the projects I did:</p>
 
 - Data Analysis/Data Science:
-  - [TCC FIA](https://github.com/AndreiaMatias/TCC-FIA);
+  - [TCC FIA: Analytics - Data Science](https://github.com/AndreiaMatias/TCC-FIA);
   - [Preditiva - Excel projects](https://github.com/AndreiaMatias/projetos-Excel);
   - [data analyst with SQL final project - DATACAMP](https://github.com/AndreiaMatias/SQL/blob/master/When%20Was%20the%20Golden%20Age%20of%20Video%20Games_/notebook.ipynb);
   - [data analyst associate certification - files](https://github.com/AndreiaMatias/data_analyst_associated_certification);
@@ -25,27 +25,6 @@
   - [Todo App](https://github.com/AndreiaMatias/TodoApp)
   - [Repositório projeto Angular](https://github.com/AndreiaMatias/proway-computers)
   - [Página do projeto Angular](https://andreiamatias.github.io/proway-computers/produtos)
-
-- Java - Digital Innovation One Bootcamp:
-  - [Arrays and Loops](https://github.com/AndreiaMatias/DIO_Loops_Java)
-  - [Methods](https://github.com/AndreiaMatias/DIO_metodos_java)
-  - [Lists](https://github.com/AndreiaMatias/DIO_exercicio_inquerito)
-  - [Lists2](https://github.com/AndreiaMatias/DIO_listas_java)
-  - [Lists3](https://github.com/AndreiaMatias/DIO_ordenacaoListas_java)
-  - [Collections](https://github.com/AndreiaMatias/DIO_Java_Collections)
-  - [MAP](https://github.com/AndreiaMatias/DIO_ExerciciosMap)
-  - [Object Oriented Programming](https://github.com/AndreiaMatias/DIO_OrientacaoObjetos.git)
-  
-- Python:
-  
-- HTML/CSS:
-  - [Curriculum](https://github.com/AndreiaMatias/EstudoCaso)
-  - [Shoe Store](https://github.com/AndreiaMatias/shoeStore)
-  - [lovt](https://github.com/AndreiaMatias/lovt)
-  
-  
-  
-
 
 
 <!---
