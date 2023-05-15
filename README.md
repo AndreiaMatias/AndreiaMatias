@@ -8,6 +8,7 @@
 <p>Here you can find some of the projects I did:</p>
 
 - Data Analysis/Data Science:
+  - [Acelera](https://github.com/AndreiaMatias/programa_acelera/tree/main);
   - [TCC FIA: Analytics - Data Science](https://github.com/AndreiaMatias/TCC-FIA);
   - [Preditiva - Excel projects](https://github.com/AndreiaMatias/projetos-Excel);
   - [Preditiva - SQL project](https://github.com/AndreiaMatias/Projeto_SQL);
