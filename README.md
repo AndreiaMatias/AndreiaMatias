@@ -21,13 +21,6 @@
    - [Projeto modelagem oficina](https://github.com/AndreiaMatias/DesafioModelagemOficina)
    - [Projeto lógico oficina](https://github.com/AndreiaMatias/DesafioOficinaLogico)
 
-- Start Capgemini:
-  - [Algoritmos](https://github.com/AndreiaMatias/algoritmos)
-  - [Java - exercícios](https://github.com/AndreiaMatias/Java)
-  - [Todo App](https://github.com/AndreiaMatias/TodoApp)
-  - [Repositório projeto Angular](https://github.com/AndreiaMatias/proway-computers)
-  - [Página do projeto Angular](https://andreiamatias.github.io/proway-computers/produtos)
-
 
 <!---
 AndreiaMatias/AndreiaMatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
