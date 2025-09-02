@@ -1,8 +1,8 @@
 # Andréia Matias' Repositories
 
 - 👋 Hi, I’m @AndreiaMatias
-- 👀 I’m a data analyst. I'm interested in Java, Python and Data Science
-- 🌱 I’m currently learning Data Science and Java.
+- 👀 I’m a data analyst. I'm interested in analytics, Excel, SQL, Python and Data Science
+- 🌱 I’m currently learning Data Science.
 
 
 <p>Here you can find some of the projects I did:</p>
