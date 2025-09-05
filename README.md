@@ -1,5 +1,3 @@
-# Andréia Matias' Repositories
-
 # 👋 Hi, I’m Andréia Matias  
 
 💡 **Data Analyst | SQL | Python | Power BI | Excel | Data Storytelling**  
