@@ -51,7 +51,7 @@ Currently, I’m sharpening my skills in **Data Science and Machine Learning** w
 ---
 
 ## 📫 Let’s Connect!  
-- 🌐 [Portfolio](https://andreiamatias.notion.site)  
+- 🌐 [Portfolio](https://www.notion.so/andreiamatias/Andreia-Matias-b1e89c59521949bfa069f262351acf5a)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreiacm)  
 - 📧 Contact: deiamat@gmail.com  
 
